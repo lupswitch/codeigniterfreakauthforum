@@ -1,0 +1,1 @@
+Very simple forum written in CodeIgniter with FreakAuth Light authentication.
